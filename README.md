@@ -51,14 +51,11 @@ Driven by a constant desire to learn and innovate, I love blending **engineering
 - Data-driven UI/UX design
 
 ---
-
 ### 📫 Connect with Me
 
-- 🔗 [LinkedIn](www.linkedin.com/in/riya-joshi-92619428b/)  
-- 🌍 Portfolio: [riyajoshi.dev](https://riyajoshi.dev) *(coming soon)*  
-- 📧 Email: riya.ananya.joshi@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/riya-joshi-92619428b)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riya.ananya.joshi@gmail.com)
 
----
 
 ### 📊 GitHub Stats
 
