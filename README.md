@@ -54,7 +54,7 @@ Driven by a constant desire to learn and innovate, I love blending **engineering
 
 ### 📫 Connect with Me
 
-- 🔗 [LinkedIn](www.linkedin.com/in/riya-joshi-92619428b)  
+- 🔗 [LinkedIn](www.linkedin.com/in/riya-joshi-92619428b/)  
 - 🌍 Portfolio: [riyajoshi.dev](https://riyajoshi.dev) *(coming soon)*  
 - 📧 Email: riya.ananya.joshi@gmail.com
 
