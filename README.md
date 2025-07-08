@@ -12,13 +12,34 @@ Driven by a constant desire to learn and innovate, I love blending **engineering
 📌 Constantly experimenting, always iterating — because progress lives in motion.
 
 
-### 💡 Skills
+### 💡 Techstack
+### 🛠️ Tech Stack
 
-- **Languages:** Python, JavaScript, C++, Java  
-- **Frontend:** React.js, Next.js, HTML, CSS 
-- **Backend:** FastAPI, Supabase
-- **AI/ML:** Scikit-learn, TensorFlow
-- **Tools:** Git, GitHub, Vercel, Render
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+**Frontend:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend:**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
+
+**AI/ML:**  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+**Tools:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
 ---
 
@@ -33,7 +54,7 @@ Driven by a constant desire to learn and innovate, I love blending **engineering
 
 ### 📫 Connect with Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/riya-joshi)  
+- 🔗 [LinkedIn](www.linkedin.com/in/riya-joshi-92619428b)  
 - 🌍 Portfolio: [riyajoshi.dev](https://riyajoshi.dev) *(coming soon)*  
 - 📧 Email: riya.ananya.joshi@gmail.com
 
