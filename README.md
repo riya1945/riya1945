@@ -1,5 +1,5 @@
-Hi 👋, I'm Riya Joshi  
-AI-Powered Web Developer | B.Tech CSE Undergrad | Designing with Logic, Built for Impact
+<h1 align="center">Hi 👋, I'm Riya Joshi </h1>
+<h3 align="center"> AI-Powered Web Developer | B.Tech CSE Undergrad | Designing with Logic, Built for Impact</h3>
 
 🌟 **About Me**
 
